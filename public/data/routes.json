@@ -1,0 +1,104 @@
+{
+  "routes": [
+    {
+      "id": 1,
+      "name": "Парк «Фили» и велотрек в Крылатском",
+      "country": "Россия",
+      "city": "Москва",
+      "description": "Живописный маршрут вдоль Москвы-реки через парки и лесные массивы",
+      "length": "15.2 км",
+      "image": "./public/images/Nabereshnaya.webp",
+      "link": "https://www.s7.ru/ru/media/blog/velomarshruty-po-moskve/?ysclid=msdbr5ysdd720557976"
+    },
+    {
+      "id": 2,
+      "name": "Грейт Дивайд",
+      "country": "Канада",
+      "city": "Банф",
+      "description": "Маршрут не для новичков, который проведет вас через некоторые из самых изолированных и экстремальных уголков Северной Америки. ",
+      "length": "4 400 км",
+      "image": "./public/images/Kanada.jpg",
+      "link": "https://pro-bike.ru/article/tourism-samye_zhivopisnye_velomarshruty_mira_v_2025_godu-45025.html?ysclid=msddb6swrq159403402"
+    },
+    {
+      "id": 3,
+      "name": "Лигурия",
+      "country": "Италия",
+      "city": "Сан-Лоренцо",
+      "description": "Маршрут пролегает по восьми городам итальянской провинции Империя.",
+      "length": "24 км",
+      "image": "./public/images/Italy.jpg",
+      "link": "https://vk.ru/@velogorod-9-samyh-krasivyh-velosipednyh-marshrutov-so-vsego-mira?ysclid=msddo8b5j7966137180"
+    },
+    {
+      "id": 4,
+      "name": "Шоссе Дружбы",
+      "country": "Китай",
+      "city": "Лхаса",
+      "description": "Шоссе Дружбы представляет собой уникальный маршрут. Временами дорога достигает высоты 5 000 метров, что в ясные дни позволяет увидеть гору Эверест вдалеке.",
+      "length": "800 км",
+      "image": "./public/images/china.jpg",
+      "link": "https://pro-bike.ru/article/tourism-samye_zhivopisnye_velomarshruty_mira_v_2025_godu-45025.html?ysclid=msddb6swrq159403402"
+    },
+    {
+      "id": 5,
+      "name": "Парк «Сокольники» и «Лосиный Остров»",
+      "country": "Россия",
+      "city": "Москва",
+      "description": "В «Сокольниках» к 2026 году обновили инфраструктуру и велодорожки. Рядом — «Лосиный Остров» с лесными тропами и дикими животными.",
+      "length": "35 км",
+      "image": "./public/images/Sokolniki.webp",
+      "link": "https://www.s7.ru/ru/media/blog/velomarshruty-po-moskve/?ysclid=msdbr5ysdd720557976"
+    },
+    {
+      "id": 6,
+      "name": "Шетландские острова",
+      "country": "Великобритания",
+      "city": "Шотландия",
+      "description": "Маршрут  по побережью Северного моря пролегает через восемь стран и считается самым длинным в мире. Другое его название — EuroVelo 12.",
+      "length": "6000 км",
+      "image": "./public/images/USA.jpg",
+      "link": "https://vk.ru/@velogorod-9-samyh-krasivyh-velosipednyh-marshrutov-so-vsego-mira?ysclid=msddo8b5j7966137180"
+    },
+    {
+      "id": 7,
+      "name": "Зелёное кольцо",
+      "country": "Россия",
+      "city": "Москва",
+      "description": "«Зелёное кольцо» — это 129‑км веломаршрут через 24 парка Москвы (с участками по дорогам и спешиваниями), который можно проехать целиком за 10 часов или разбить на части.",
+      "length": "129 км",
+      "image": "./public/images/ZolotoeKoltso.jpg",
+      "link": "https://www.s7.ru/ru/media/blog/velomarshruty-po-moskve/?ysclid=msdbr5ysdd720557976"
+    },
+    {
+      "id": 8,
+      "name": "Дорога Смерти",
+      "country": "Боливия",
+      "city": "Ла-Пас",
+      "description": "«Дорога Смерти» в Боливии — опаснейший веломаршрут с обрывами и движущимся транспортом, который тем не менее награждает велосипедистов потрясающими видами на зелёный регион Юнгас.",
+      "length": "56 км",
+      "image": "./public/images/Bolivia.jpg",
+      "link": "https://pro-bike.ru/article/tourism-samye_zhivopisnye_velomarshruty_mira_v_2025_godu-45025.html?ysclid=msddb6swrq159403402"
+    },
+    {
+      "id": 9,
+      "name": "Прибрежный",
+      "country": "Норвегия",
+      "city": "Свинесунд",
+      "description": "Маршрут проходит через города Свинесунд, Берген, Тронхейм и тянется от региона фьордов до Северной Норвегии на самой границе с Россией.",
+      "length": "4500 км",
+      "image": "./public/images/Norvegia.jpg",
+      "link": "https://vk.ru/@velogorod-9-samyh-krasivyh-velosipednyh-marshrutov-so-vsego-mira?ysclid=msddo8b5j7966137180"
+    },
+    {
+      "id": 10,
+      "name": "Кольцевая дорога",
+      "country": "Исланлия",
+      "city": "Рейкьявик",
+      "description": "Это двухнедельное путешествие не для новичков и лучше всего наслаждаться им летом, когда длинные световые дни позволят проехать дополнительные мили каждый день",
+      "length": "1320 км",
+      "image": "./public/images/Islandia.jpg",
+      "link": "https://example.com/route10"
+    }
+  ]
+}
