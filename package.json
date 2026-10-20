@@ -8,8 +8,8 @@
     "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "predeploy": "npm run build", //сборка для GitHub
-    "deploy": "gh-pages -d dist" //сборка для GitHub
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d dist" 
   },
   "dependencies": {
     "react": "^19.2.8",

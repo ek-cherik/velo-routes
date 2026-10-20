@@ -5,7 +5,7 @@ function About() {
     <section className="about-section">
       <div className="about-image">
         <img
-          src="/images/velosipedisty-i-mir.png"
+          src={`${import.meta.env.BASE_URL}images/velosipedisty-i-mir.png`}
           alt="Велосипедист на закате"
         />
 

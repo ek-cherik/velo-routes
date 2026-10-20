@@ -7,7 +7,7 @@
       "city": "Москва",
       "description": "Живописный маршрут вдоль Москвы-реки через парки и лесные массивы",
       "length": "15.2 км",
-      "image": "./public/images/Nabereshnaya.webp",
+      "image": "images/Nabereshnaya.webp",
       "link": "https://www.s7.ru/ru/media/blog/velomarshruty-po-moskve/?ysclid=msdbr5ysdd720557976"
     },
     {
@@ -17,7 +17,7 @@
       "city": "Банф",
       "description": "Маршрут не для новичков, который проведет вас через некоторые из самых изолированных и экстремальных уголков Северной Америки. ",
       "length": "4 400 км",
-      "image": "./public/images/Kanada.jpg",
+      "image": "images/Kanada.jpg",
       "link": "https://pro-bike.ru/article/tourism-samye_zhivopisnye_velomarshruty_mira_v_2025_godu-45025.html?ysclid=msddb6swrq159403402"
     },
     {
@@ -27,7 +27,7 @@
       "city": "Сан-Лоренцо",
       "description": "Маршрут пролегает по восьми городам итальянской провинции Империя.",
       "length": "24 км",
-      "image": "./public/images/Italy.jpg",
+      "image": "images/Italy.jpg",
       "link": "https://vk.ru/@velogorod-9-samyh-krasivyh-velosipednyh-marshrutov-so-vsego-mira?ysclid=msddo8b5j7966137180"
     },
     {
@@ -37,7 +37,7 @@
       "city": "Лхаса",
       "description": "Шоссе Дружбы представляет собой уникальный маршрут. Временами дорога достигает высоты 5 000 метров, что в ясные дни позволяет увидеть гору Эверест вдалеке.",
       "length": "800 км",
-      "image": "./public/images/china.jpg",
+      "image": "images/china.jpg",
       "link": "https://pro-bike.ru/article/tourism-samye_zhivopisnye_velomarshruty_mira_v_2025_godu-45025.html?ysclid=msddb6swrq159403402"
     },
     {
@@ -47,7 +47,7 @@
       "city": "Москва",
       "description": "В «Сокольниках» к 2026 году обновили инфраструктуру и велодорожки. Рядом — «Лосиный Остров» с лесными тропами и дикими животными.",
       "length": "35 км",
-      "image": "./public/images/Sokolniki.webp",
+      "image": "images/Sokolniki.webp",
       "link": "https://www.s7.ru/ru/media/blog/velomarshruty-po-moskve/?ysclid=msdbr5ysdd720557976"
     },
     {
@@ -57,7 +57,7 @@
       "city": "Шотландия",
       "description": "Маршрут  по побережью Северного моря пролегает через восемь стран и считается самым длинным в мире. Другое его название — EuroVelo 12.",
       "length": "6000 км",
-      "image": "./public/images/USA.jpg",
+      "image": "images/USA.jpg",
       "link": "https://vk.ru/@velogorod-9-samyh-krasivyh-velosipednyh-marshrutov-so-vsego-mira?ysclid=msddo8b5j7966137180"
     },
     {
@@ -67,7 +67,7 @@
       "city": "Москва",
       "description": "«Зелёное кольцо» — это 129‑км веломаршрут через 24 парка Москвы (с участками по дорогам и спешиваниями), который можно проехать целиком за 10 часов или разбить на части.",
       "length": "129 км",
-      "image": "./public/images/ZolotoeKoltso.jpg",
+      "image": "images/ZolotoeKoltso.jpg",
       "link": "https://www.s7.ru/ru/media/blog/velomarshruty-po-moskve/?ysclid=msdbr5ysdd720557976"
     },
     {
@@ -77,7 +77,7 @@
       "city": "Ла-Пас",
       "description": "«Дорога Смерти» в Боливии — опаснейший веломаршрут с обрывами и движущимся транспортом, который тем не менее награждает велосипедистов потрясающими видами на зелёный регион Юнгас.",
       "length": "56 км",
-      "image": "./public/images/Bolivia.jpg",
+      "image": "images/Bolivia.jpg",
       "link": "https://pro-bike.ru/article/tourism-samye_zhivopisnye_velomarshruty_mira_v_2025_godu-45025.html?ysclid=msddb6swrq159403402"
     },
     {
@@ -87,7 +87,7 @@
       "city": "Свинесунд",
       "description": "Маршрут проходит через города Свинесунд, Берген, Тронхейм и тянется от региона фьордов до Северной Норвегии на самой границе с Россией.",
       "length": "4500 км",
-      "image": "./public/images/Norvegia.jpg",
+      "image": "images/Norvegia.jpg",
       "link": "https://vk.ru/@velogorod-9-samyh-krasivyh-velosipednyh-marshrutov-so-vsego-mira?ysclid=msddo8b5j7966137180"
     },
     {
@@ -97,7 +97,7 @@
       "city": "Рейкьявик",
       "description": "Это двухнедельное путешествие не для новичков и лучше всего наслаждаться им летом, когда длинные световые дни позволят проехать дополнительные мили каждый день",
       "length": "1320 км",
-      "image": "./public/images/Islandia.jpg",
+      "image": "images/Islandia.jpg",
       "link": "https://example.com/route10"
     }
   ]

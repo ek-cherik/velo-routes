@@ -16,7 +16,7 @@ function RoutesList() {
   useEffect(() => {
     // Искусственная задержка в 2 секунды
     setTimeout(() => {
-      fetch("/data/routes.json")
+      fetch(`${import.meta.env.BASE_URL}data/routes.json`)
         .then((response) => {
           if (!response.ok) {
             throw new Error("Ошибка загрузки данных");

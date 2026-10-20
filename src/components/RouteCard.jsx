@@ -11,7 +11,10 @@ function RouteCard({ route }) {
       className="route-card"
     >
       <div className="route-card-image">
-        <img src={route.image} alt={route.name} />
+        <img
+          src={`${import.meta.env.BASE_URL}${route.image}`}
+          alt={route.name}
+        />
       </div>
       <div className="route-card-content">
         <div className="route-card-location">
